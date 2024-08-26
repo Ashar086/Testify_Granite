@@ -16,17 +16,23 @@ These models work together to estimate the required testing efforts, both manual
 Testing Types Implementation
 
 Implement various types of testing, including:
-Manual Testing: Manually assess critical features to ensure they function as expected.
-Automated Testing: Utilize Selenium and AI guidance to automate testing tasks.
-Regression Testing: Confirm that recent changes do not negatively impact existing functionalities.
-Sanity Testing: Perform quick checks on basic functionalities to ensure stability.
-Smoke Testing: Validate the overall stability of the application.
-Critical Features Testing: Focus on the most crucial aspects of the application.
-Test Report Generation
-
+#Manual Testing:
+Manually assess critical features to ensure they function as expected.
+#Automated Testing:
+Utilize Selenium and AI guidance to automate testing tasks.
+#Regression Testing: 
+Confirm that recent changes do not negatively impact existing functionalities.
+#Sanity Testing:
+Perform quick checks on basic functionalities to ensure stability.
+#Smoke Testing:
+Validate the overall stability of the application.
+#Critical Features Testing: 
+Focus on the most crucial aspects of the application.
+#Test Report Generation
 Generate comprehensive test reports that include test statuses, coverage, identified issues, and recommendations for improvement.
 The reports are designed to be easily understood and actionable.
-Deployment
+
+##Deployment
 
 Deploy the project on IBM Watson and Granite, hosting it using Streamlit for easy access and interaction.
 How to Use It
