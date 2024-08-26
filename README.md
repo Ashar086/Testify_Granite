@@ -33,14 +33,14 @@ How to Use It
 Follow these steps to set up and use the AI-Powered Testing Estimation and Automation Tool:
 
 1. Clone the Repository
-bash
+'''bash
 Copy code
-git clone https://github.com/your-username/ai-testing-estimation.git
+git clone https://github.com/Ashar086/Testify_Granite/git
 cd ai-testing-estimation
-2. Install Dependencies
+3. Install Dependencies
 Ensure you have Python installed, then install the required packages:
 
-bash
+'''bash
 Copy code
 pip install -r requirements.txt
 3. Set Up API Keys for IBM Watson, Granite, and Hugging Face
